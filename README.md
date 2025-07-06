@@ -7,7 +7,7 @@ PREREQUISITES
 * [SiliconDust HDHomeRun](https://www.silicondust.com/hdhomerun/)
 * [Icecast](https://icecast.org)
 * [Python](https://www.python.org)
-* [Bumble](https://google.github.io/bumble/apps_and_tools/auracast.html)
+* [Bumble](https://google.github.io/bumble/apps_and_tools/auracast.html) 
 
 TESTED COMPATIBILITY
 * [Connect 4K](https://info.hdhomerun.com/info/connect#connect_4k)
